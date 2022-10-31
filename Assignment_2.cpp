@@ -7,7 +7,7 @@ int main()
    float doubleResult;
 
    cout << "My Family name is Lam.\n";
-   cout << "My Student ID is 20422860.\n";
+   cout << "My Student ID is ---.\n";
    cout << "The number of characters in my last name is 3.\n" << endl;
 
    myId = 20422860;
@@ -38,7 +38,7 @@ int main()
 /*-----------------------------------------------------------------------Paste of the Run-----------------------------------------------------------------------
 
 My Family name is Lam.
-My Student ID is 20422860.
+My Student ID is ---.
 The number of characters in my last name is 3.
 
 Expression #1: 20422860 % 13 : 3
@@ -52,7 +52,7 @@ Expression #4: 1 + 2 + 3 : 6
 Expression #5: 25000 / [ 60 + [ (20422860 + 4657) / (3 + 20)^2 ] ] : 0.6464066505
 
 
-C:\Users\lamwe\OneDrive\Documents\LamWC\Foothill College\SPRING 2020\CS 2A\Assignment\Assignment_2\Debug\Assignment_2.exe (process 16088) exited with code 0.
+(process 16088) exited with code 0.
 Press any key to close this window . . .
  
  ------------------------------------------------------------------------------------------------------------------------------------------------------------  */
