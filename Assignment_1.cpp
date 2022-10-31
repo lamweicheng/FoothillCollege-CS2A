@@ -4,7 +4,7 @@ int main()
 {
    cout << "Hello Foothill College Student!\n" << endl;
    cout << "My family name is Lam." << endl;
-   cout << "My Student ID is 20422860.\n" << endl;
+   cout << "My Student ID is ---.\n" << endl;
 
    cout << "Syllabus detail #1: A reference book called Absolute C++ by Walter Savitch is suggested for this course,but it is not a prerequisite.\n";
    cout << "I can get any other reference book within my budget.\n" << endl;
@@ -29,7 +29,7 @@ int main()
 Hello Foothill College Student!
 
 My family name is Lam.
-My Student ID is 20422860.
+My Student ID is ---.
 
 Syllabus detail #1: A reference book called Absolute C++ by Walter Savitch is suggested for this course,but it is not a prerequisite.
 I can get any other reference book within my budget.
