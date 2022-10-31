@@ -48,7 +48,7 @@ Specific lab detail #3: Time for grading.Professor will take one week from the d
 For late submission, time for grading may be longer than one week for example two weeks.
 
 
-C:\Users\lamwe\OneDrive\Documents\LamWC\Foothill College\SPRING 2020\CS 2A\Assignment\Assignment_1\Debug\Assignment_1.exe (process 15416) exited with code 0.
+(process 15416) exited with code 0.
 Press any key to close this window . . .
 
 
